@@ -13,6 +13,13 @@ public class GameManager : MonoBehaviour
     public Button restartButton;
     public bool isGameActive;
     public GameObject titleScreen;
+    public GameObject goodObjectOne;
+    public GameObject goodObjectTwo;
+    public GameObject goodObjectThree;
+    public GameObject badObject;
+    public AudioSource scoreSound;
+    public AudioSource badSound;
+    
     
     private int score;
     private float spawnRate = 1.0f;
