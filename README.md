@@ -1,5 +1,8 @@
 # ClickyMouseGame
 
+https://user-images.githubusercontent.com/53233822/209429381-80882179-d1f4-4994-adf4-8895fa35f947.mp4
+
+
 In this game, a list of three good target objects and one bad target object will spawn in a random position at the bottom of the screen, thrusting themselves into the air with random force and torque. These targets will be destroyed when the player clicks on them.
 
 In this project, I've practised;
@@ -26,3 +29,6 @@ In this project, I've practised;
 - Passing parameters between scripts
 - Divide/Assign (/=) operator
 - Grouping child objects
+
+
+
